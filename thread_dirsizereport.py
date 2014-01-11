@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 ##
 # Blake Golliher
-# bgolliher@apple.comom
+# blakegolliher@gmail.com
 ##
 
 from threading import Thread
